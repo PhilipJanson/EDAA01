@@ -29,3 +29,4 @@ bin
 .project
 .DS_Store
 .settings
+*.prefs
