@@ -1,8 +1,0 @@
-1. a) 10, 20, 30, 47
-   b) 3
-   c) 4
-   
-2. a) 0
-   b) 1 + Math.max(height(n.left), height(n.right))
-   
-3. (first + last) / 2

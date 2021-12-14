@@ -41,7 +41,6 @@ public class BinarySearchTree<E> {
 
 		BSTVisualizer bstv = new BSTVisualizer("Int Tree", 1000, 800);
 		bstv.drawTree(tree);
-
 	}
 
 	/**
